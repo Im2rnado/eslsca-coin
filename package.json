@@ -16,7 +16,7 @@
         "ethereum",
         "solidity"
     ],
-    "author": "ESLSCA Student",
+    "author": "Im2rnado",
     "license": "MIT",
     "devDependencies": {
         "@nomicfoundation/hardhat-toolbox": "^4.0.0",
